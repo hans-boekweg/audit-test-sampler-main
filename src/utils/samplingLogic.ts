@@ -108,7 +108,6 @@ export const parseHierarchicalGL = (rawData: unknown[][]): Transaction[] => {
   );
   const numColIdx = headers.findIndex((h) => h && h === "num");
   const nameColIdx = headers.findIndex((h) => h && h === "name");
-  const typeColIdx = headers.findIndex((h) => h && h.includes("type"));
 
   let currentAccountName = "";
 
