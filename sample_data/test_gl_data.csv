@@ -1,0 +1,26 @@
+Date,Account Number,Account Name,Description,Amount,Reference,Vendor
+2024-01-05,1001,ADMIN OPERATIONS,Office supplies procurement,12500.00,INV-001,Staples Office Supply
+2024-01-08,1001,ADMIN OPERATIONS,IT equipment maintenance,18500.00,INV-002,TechServ Inc
+2024-01-12,1001,ADMIN OPERATIONS,Staff training program,8500.00,INV-003,Training Solutions LLC
+2024-01-15,1001,ADMIN OPERATIONS,Annual software license,25000.00,INV-004,Microsoft Corp
+2024-01-18,1001,ADMIN OPERATIONS,Consulting services,14200.00,INV-005,Deloitte Consulting
+2024-01-22,1002,CIVIC CENTER MAINTENANCE,HVAC system repair,22000.00,INV-006,Climate Control Inc
+2024-01-25,1002,CIVIC CENTER MAINTENANCE,Janitorial supplies,4500.00,INV-007,CleanPro Supplies
+2024-01-28,1002,CIVIC CENTER MAINTENANCE,Electrical upgrades,35000.00,INV-008,Bright Electric Co
+2024-02-01,1002,CIVIC CENTER MAINTENANCE,Security system update,19500.00,INV-009,SecureGuard Systems
+2024-02-05,1002,CIVIC CENTER MAINTENANCE,Roof inspection,3200.00,INV-010,Roofing Experts LLC
+2024-02-08,1003,PARK AND RECREATION,Landscaping services,16800.00,INV-011,Green Thumb Landscaping
+2024-02-12,1003,PARK AND RECREATION,Playground equipment,28500.00,INV-012,PlaySafe Equipment
+2024-02-15,1003,PARK AND RECREATION,Tree removal service,7500.00,INV-013,Arbor Care Services
+2024-02-18,1003,PARK AND RECREATION,Irrigation system repair,12300.00,INV-014,WaterWorks Inc
+2024-02-22,1003,PARK AND RECREATION,Trail maintenance,9800.00,INV-015,PathFinders Co
+2024-02-25,1004,POOL OPERATIONS,Chemical supplies,5600.00,INV-016,PoolChem Distributors
+2024-02-28,1004,POOL OPERATIONS,Lifeguard equipment,3400.00,INV-017,Safety First Inc
+2024-03-01,1004,POOL OPERATIONS,Filter system replacement,18900.00,INV-018,Aqua Systems LLC
+2024-03-05,1004,POOL OPERATIONS,Heater maintenance,11500.00,INV-019,Thermal Solutions
+2024-03-08,1004,POOL OPERATIONS,Deck resurfacing,24000.00,INV-020,Surface Pro Contractors
+2024-03-12,1005,GENERAL SERVICES,Fleet vehicle repair,7200.00,INV-021,Auto Care Center
+2024-03-15,1005,GENERAL SERVICES,Building insurance,45000.00,INV-022,State Farm Insurance
+2024-03-18,1005,GENERAL SERVICES,Legal services,15800.00,INV-023,Anderson Law Firm
+2024-03-22,1006,WATER UTILITY,Pipeline inspection,32000.00,INV-024,Pipe Integrity Inc
+2024-03-25,1006,WATER UTILITY,Meter replacement,8900.00,INV-025,Meter Tech Solutions
